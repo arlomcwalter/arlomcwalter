@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm seasnail.
-An 18 year old self-taught developer from the UK. ![](https://hit.yhype.me/github/profile?user_id=17166139) 
+An 18 year old, self-taught, full-stack developer. ![](https://hit.yhype.me/github/profile?user_id=17166139) 
 
 ### 💼 Experience
 I've been writing code for over five years and started professionally in 2021.  
