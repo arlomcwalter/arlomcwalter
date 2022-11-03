@@ -1,6 +1,5 @@
-Self taught full-stack developer. ![](https://hit.yhype.me/github/profile?user_id=17166139)  
-Writing code for over five years (professionally as of 2020).  
-Working on various public projects, the most notable being [Meteor](https://github.com/MeteorDevelopment).  
+Self taught full-stack developer.  Writing code for over five years (professionally as of 2020). ![](https://hit.yhype.me/github/profile?user_id=17166139)  
+Working on various projects, the most notable being [Meteor](https://github.com/MeteorDevelopment).  
 
 <div>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
