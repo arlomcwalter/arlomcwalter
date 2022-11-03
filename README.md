@@ -1,4 +1,4 @@
-18 year old, self-taught, full-stack developer. ![](https://hit.yhype.me/github/profile?user_id=17166139)  
+Self taught full-stack developer. ![](https://hit.yhype.me/github/profile?user_id=17166139)  
 Writing code for over five years (professionally as of 2020).  
 Working on various public projects, the most notable being [Meteor](https://github.com/MeteorDevelopment).  
 
