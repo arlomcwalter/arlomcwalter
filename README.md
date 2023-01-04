@@ -1,7 +1,7 @@
 ### 🚧 Projects
- - [**Meteor**](https://github.com/MeteorDevelopment) - Minecraft 1.19 Fabric utility mod.
- - [**Yarn Remapper**](https://github.com/seasnale/yarn-remapper) - Simple tool for remapping Fabric mods.
- - [**Custom FoV**](https://github.com/seasnale/custom-fov) - Simple Fabric mod that changes the FoV setting limits.
+ - [**Pylai**](https://github.com/arlomcwalter/pylai) - A cli totp manager and authenticator written in Go.
+ - [**Altr**](https://github.com/arlomcwalter/altr) - A cli text editor written in Go. (very unfinished)
+ - [**Meteor**](https://github.com/MeteorDevelopment) - Minecraft Fabric utility mod.
 
 ### 🔧 Tools
 <div>
