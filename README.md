@@ -1,8 +1,11 @@
+### 📈 Stats
+![](https://github-readme-stats.vercel.app/api?username=arlomcwalter&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&text_color=FFFFFF&bg_color=00000000&theme=dark#gh-dark-mode-only)
+
 ### 🚧 Projects
- - [**Wormhole**](https://github.com/MeteorDevelopment/wormhole) - An instant messaging platform written in Go.
+ - [**Meteor**](https://github.com/MeteorDevelopment) - Minecraft Java utility mod. (3m+ downloads)
+ - [**Wormhole**](https://github.com/MeteorDevelopment/wormhole) - An instant messaging platform written in Go. (WIP)
+ - [**Altr**](https://github.com/arlomcwalter/altr) - A cli text editor written in Go. (WIP)
  - [**Pylai**](https://github.com/arlomcwalter/pylai) - A cli totp manager and authenticator written in Go.
- - [**Meteor**](https://github.com/MeteorDevelopment) - Minecraft (Java) utility mod.
- - [**Altr**](https://github.com/arlomcwalter/altr) - A cli text editor written in Go. (very unfinished)
 
 ### 🔧 Tools
 <div>
@@ -18,6 +21,4 @@
 </div>
 
 ### 💰 Sponsors
-<a href='https://github.com/sponsors/arlomcwalter' target='_blank'><img height='30' src='https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=333B42&style=flat-square' alt='Github Sponsors'></a>
-<br>
-<a href='https://ko-fi.com/O4O6JY61Y' target='_blank'><img style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+Consider sponsoring me using the [GitHub Sponsors](https://github.com/sponsors/arlomcwalter) button on my profile.
