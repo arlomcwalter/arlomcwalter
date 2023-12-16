@@ -20,8 +20,7 @@ jobs:
 
       - name: Run update script
         run: |
-          ls -a
-          cd ./github/script
+          cd .github/script
           npm install
           node .
 
