@@ -1,0 +1,34 @@
+name: Update README.md
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run update script
+        run: |
+          cd ./github/script
+          npm install
+          node .
+
+      - name: Commit and push
+        run: |
+            git config --local user.email "17166139+arlomcwalter@users.noreply.github.com"
+            git config --local user.name "arlomcwalter"
+        
+            git add -A
+            git diff --quiet || git commit -m "Update README.md"
+            git push
