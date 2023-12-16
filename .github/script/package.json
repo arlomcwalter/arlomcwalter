@@ -1,0 +1,11 @@
+{
+  "name": "update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "arlomcwalter",
+  "license": "MIT",
+  "dependencies": {
+    "numeral": "^2.0.6"
+  }
+}
