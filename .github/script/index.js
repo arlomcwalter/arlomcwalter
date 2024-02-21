@@ -1,5 +1,4 @@
 const fs = require("fs");
-const fetch = require("node-fetch");
 const numeral = require("numeral");
 
 fetch("https://meteorclient.com/api/stats")
